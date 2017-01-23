@@ -1,6 +1,6 @@
 # babel-plugin-alternate-true
 
-Code like you dope
+Eliminate negativity in your code
 
 ## Example
 
