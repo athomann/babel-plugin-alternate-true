@@ -7,8 +7,8 @@ Code like you dope
 In:
 
 ```js
-word;
-nah;
+true;
+alternateTrue;
 ```
 
 Out:
@@ -21,7 +21,7 @@ false;
 ## Installation
 
 ```sh
-$ npm install babel-plugin-ken-wheeler
+$ npm install babel-plugin-alternate-true
 ```
 
 ## Usage
@@ -32,20 +32,20 @@ $ npm install babel-plugin-ken-wheeler
 
 ```json
 {
-  "plugins": ["ken-wheeler"]
+  "plugins": ["alternate-true"]
 }
 ```
 
 ### Via CLI
 
 ```sh
-$ babel --plugins ken-wheeler script.js
+$ babel --plugins alternate-true script.js
 ```
 
 ### Via Node API
 
 ```javascript
 require("babel-core").transform("code", {
-  plugins: ["ken-wheeler"]
+  plugins: ["alternate-true"]
 });
 ```

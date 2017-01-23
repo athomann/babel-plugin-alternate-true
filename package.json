@@ -1,8 +1,8 @@
 {
-  "name": "babel-plugin-ken-wheeler",
+  "name": "babel-plugin-alternate-true",
   "version": "1.0.0",
-  "description": "Code like you dope",
-  "repository": "thejameskyle/babel-plugin-ken-wheeler",
+  "description": "Eliminate negativity in your code",
+  "repository": "athomann/babel-plugin-alternate-true",
   "license": "MIT",
   "main": "lib/index.js",
   "devDependencies": {

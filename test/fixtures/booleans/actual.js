@@ -1,2 +1,2 @@
-word;
-nah;
+true;
+alternateTrue;
